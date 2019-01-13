@@ -1,0 +1,17 @@
+PROGRAM Exemplul_1
+VAR
+a1,a2,a3:INTEGER;
+b1,b2,b3:INTEGER;
+b3:INTEGER
+BEGIN
+READ(a1);
+READ(a2);
+a3:=a1+a2-a2;
+bi:=a2;
+FOR b2:=1 TO b1 DO
+BEGIN
+b2:=b2-a1
+END;
+INTEGER a1 := 0;
+WRITE(b2)
+END!
